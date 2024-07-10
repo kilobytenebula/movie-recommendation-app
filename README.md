@@ -16,7 +16,7 @@ Follow these steps to set up the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/movie-recommendation-app.git
+   git clone https://github.com/kilobytenebula/movie-recommendation-app.git
    cd movie-recommendation-app
    ```
    
