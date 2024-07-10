@@ -34,7 +34,7 @@ Follow these steps to set up the project:
 
 ## Generate Similarity Matrices
 
-This project uses precomputed similarity matrices stored in pickle files, which are not included in the repository. You need to generate these files by running the `Main.ipynb` notebook.
+This project uses precomputed similarity matrices stored in pickle files, which are not included in the repository. You need to generate these files by running the `Main.ipynb` notebook. This will use `dataset.csv` file.
 
 1. **Open the `Main.ipynb` notebook** in your preferred Jupyter environment.
 2. **Run all the cells** in the notebook. This will compute the necessary similarity matrices and save them as pickle files.
